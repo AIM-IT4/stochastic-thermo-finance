@@ -60,4 +60,10 @@ g++ -o quant quant.cpp
 
 Theoretical Alignment
 
-This code strictly adheres to the corrected Linear Permanent Impact assumption ($\mathcal{I}(v) = \lambda v$). Under this framework, the permanent impact component integrates to zero over any closed round-trip cycle, meaning the dissipated work is governed solely by the temporary impact coefficient $\alpha = \eta$.LicenseMIT License. Free to use for academic and research purposes.
+This code strictly adheres to the corrected Linear Permanent Impact assumption ($\mathcal{I}(v) = \lambda v$). Under this framework, the permanent impact component integrates to zero over any closed round-trip cycle, meaning the dissipated work is governed solely by the temporary impact coefficient $\alpha = \eta$.
+
+# License
+
+MIT License. 
+
+Free to use for academic and research purposes.
